@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Homepage Images -->
+  <url>
+    <loc>https://prismparse.com/</loc>
+    <image:image>
+      <image:loc>https://prismparse.com/src/assets/PrismParseLogo.svg</image:loc>
+      <image:caption>PrismParse Logo - Transform PDFs into Structured Data</image:caption>
+      <image:title>PrismParse Company Logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg</image:loc>
+      <image:caption>PDF document processing and data extraction visualization</image:caption>
+      <image:title>PDF Data Extraction Hero Image</image:title>
+    </image:image>
+  </url>
+
+  <!-- Documentation Page Images -->
+  <url>
+    <loc>https://prismparse.com/docs</loc>
+    <image:image>
+      <image:loc>https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg</image:loc>
+      <image:caption>API documentation and code examples for developers</image:caption>
+      <image:title>API Documentation Visual Guide</image:title>
+    </image:image>
+  </url>
+
+  <!-- Dashboard Images -->
+  <url>
+    <loc>https://prismparse.com/dashboard</loc>
+    <image:image>
+      <image:loc>https://images.pexels.com/photos/590020/pexels-photo-590020.jpeg</image:loc>
+      <image:caption>User dashboard showing PDF processing statistics and analytics</image:caption>
+      <image:title>PrismParse Dashboard Analytics</image:title>
+    </image:image>
+  </url>
+
+  <!-- Pricing Page Images -->
+  <url>
+    <loc>https://prismparse.com/pricing</loc>
+    <image:image>
+      <image:loc>https://images.pexels.com/photos/1181677/pexels-photo-1181677.jpeg</image:loc>
+      <image:caption>Pricing plans comparison for PDF processing services</image:caption>
+      <image:title>PrismParse Pricing Plans</image:title>
+    </image:image>
+  </url>
+
+</urlset>
